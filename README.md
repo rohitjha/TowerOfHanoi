@@ -1,2 +1,2 @@
 # TowerOfHanoi
-OpenGL simulation for the Tower of Hanoi problem
+OpenGL simulation of the solution to the Tower of Hanoi problem.
