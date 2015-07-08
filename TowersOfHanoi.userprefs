@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="TowersOfHanoi/TowersOfHanoi.vcxproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|Win32" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TowersOfHanoi/Hanoi.c">
+    <Files>
+      <File FileName="TowersOfHanoi/Hanoi.c" Line="7" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
